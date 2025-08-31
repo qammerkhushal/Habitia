@@ -25,6 +25,7 @@ jobs:
           cd frontend
           rm -rf node_modules package-lock.json yarn.lock
           npm cache clean --force
+          npm install ajv@6.12.6 ajv-keywords@3.5.2 --save-dev
           npm install --legacy-peer-deps
 
       - name: Build project
