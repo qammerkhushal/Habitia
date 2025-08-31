@@ -16,7 +16,7 @@ function App() {
           <Route path="/terms" element={<TermsConditions />} />
         </Routes>
         <Toaster />
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
