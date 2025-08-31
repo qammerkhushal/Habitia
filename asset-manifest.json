@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Habitia/static/css/main.c5a8cf15.css",
+    "main.js": "/Habitia/static/js/main.4cbbe6bc.js",
+    "index.html": "/Habitia/index.html",
+    "main.c5a8cf15.css.map": "/Habitia/static/css/main.c5a8cf15.css.map",
+    "main.4cbbe6bc.js.map": "/Habitia/static/js/main.4cbbe6bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5a8cf15.css",
+    "static/js/main.4cbbe6bc.js"
+  ]
+}
